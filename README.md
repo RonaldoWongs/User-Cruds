@@ -18,21 +18,17 @@ Esta API fue creada para ayudarte a gestionar tus tareas de manera eficiente. Pu
    https://github.com/RonaldoWongs/User-Cruds
 
    Instalación de Dependencias
-Navega al directorio del proyecto y ejecuta el siguiente comando para instalar las dependencias:
+   npm install
+   
+   Ejecución de la Aplicación
 
-bash
-Copy code
-npm install
-Ejecución de la Aplicación
-Inicia la aplicación con el siguiente comando:
+   Inicia la aplicación con el siguiente comando:
 
-Consola
-
-node app.js
+   node app.js
+   
+   La aplicación se ejecutará en http://localhost:3000.
 
 Asegurate de estar en la carpeta src para su correcta funcionalidad usando (cd src)
-
-La aplicación se ejecutará en http://localhost:3000.
 
 Rutas Disponibles
 A continuación, se detallan las rutas disponibles junto con sus descripciones y ejemplos de uso.
